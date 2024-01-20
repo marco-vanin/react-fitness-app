@@ -42,7 +42,7 @@ const Navbar = () => {
           href="#exercices"
           style={{ textDecoration: "none", color: "#3A1212" }}
         >
-          Excersices
+          Exercises
         </a>
       </Stack>
     </Stack>
