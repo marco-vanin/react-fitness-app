@@ -1,71 +1,60 @@
-# Getting Started with Create React App
+# React Fitness App 💪
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Une application de fitness basée sur React, inspirée par un tutoriel de JavaScript Mastery. Cette application vous offre une plateforme pour explorer différents exercices adaptés à vos besoins en matière de remise en forme.
 
-## Available Scripts
+## Fonctionnalités 🏋️‍♂️
 
-In the project directory, you can run:
+- **Accueil**: Commencez votre parcours fitness ici.
+- **Exercices**: Parcourez une variété d'exercices.
+- **Club Fitness**: Rejoignez notre club de fitness pour des séances d'entraînement plus personnalisées.
 
-### `npm start`
+## Motto 💦
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+"Sueur, Sourire et Répéter"
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Pour Commencer 🚀
 
-### `npm test`
+Pour commencer avec l'application Fitness, il vous suffit de cloner ce dépôt et de suivre les instructions ci-dessous :
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Installer les dépendances :
+   ```bash
+   npm install
+   ```
 
-### `npm run build`
+2. Lancer le serveur de développement :
+   ```bash
+   npm start
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Explorez les Exercices 🏃‍♀️
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Découvrez les exercices les plus efficaces personnalisés pour vous. De la cardio à la musculation, nous avons ce qu'il vous faut.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Catégories d'Exercices 🏋️‍♀️
 
-### `npm run eject`
+- **Tous**
+- **Dos**
+- **Cardio**
+- **Pectoraux**
+- **Bras Inférieurs**
+- **Jambes Inférieures**
+- **Cou**
+- **Épaules**
+- **Bras Supérieurs**
+- **Jambes Supérieures**
+- **Taille**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Exercices Disponibles 💪
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **3/4 Sit-Up**
+- **45° Side Bend**
+- **Air Bike**
+- **Étirement Quadrupède**
+- **Touchers de Talons Alternés**
+- **Tirage Latéral Alterné**
+- et bien d'autres...
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Crédits 🙌
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# cec6_react-fitness-app
+- **JavaScript Mastery**: Source du tutoriel original
+- **Marco Vanin**: Reproduction du tutoriel
